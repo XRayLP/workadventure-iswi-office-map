@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/Development\/Workadventure\/workadventure-iswi-office-map\/map.json"
         }
     },
  "height":25,
@@ -37,11 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-<<<<<<< HEAD
                  "value":"..\/Ref-IT-VereinspraesentationTUI\/Messe_UR.json#Eingang_ISWI"
-=======
-                 "value":"..\/..\/ref-it.github.io\/Ref-IT-VereinspraesentationTUI\/Messe_UR.json#Eingang_ISWI"
->>>>>>> da018b1376d487fb2d0b8f1070d4d0f5c893b8ee
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -88,21 +84,13 @@
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 329, 329, 329, 329, 329, 329, 329, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":25,
          "id":16,
-<<<<<<< HEAD
          "name":"URL_webex",
-=======
-         "name":"URL_jitsi",
->>>>>>> da018b1376d487fb2d0b8f1070d4d0f5c893b8ee
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-<<<<<<< HEAD
                  "value":"https:\/\/tu-ilmenau.webex.com\/tu-ilmenau-en\/j.php?MTID=m5e9f4cc9af1214ad23439db8467b7a76"
-=======
-                 "value":"https:\/\/meet.jit.si\/SpielemittwochinIlmenau"
->>>>>>> da018b1376d487fb2d0b8f1070d4d0f5c893b8ee
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -202,7 +190,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -927,7 +915,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
