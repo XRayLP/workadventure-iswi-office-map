@@ -88,9 +88,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"ISWI-Spieleabend"
+                 "value":"https:\/\/tu-ilmenau.webex.com\/tu-ilmenau-en\/j.php?MTID=m4ba943852aab6ff98ae951f303a6fa83"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
